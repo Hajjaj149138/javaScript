@@ -1,1 +1,3 @@
-# Java Script Project
+# Java Script Practice
+
+
